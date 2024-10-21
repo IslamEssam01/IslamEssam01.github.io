@@ -43,5 +43,5 @@
 - Knowledge in Backend development with Node.js, Express.js, Bun, and Elysia.js.
 
 ## Activities 
-**Web Developer @ Cairo University Racing Team - Formula Student (_Sep 2024 - Present_)**
-**Frontend Web Developer @ IEEE CUSB (_Jan 2024 - Jun2024_)**
+**Web Developer @ Cairo University Racing Team - Formula Student (_Sep 2024 - Present_)**  
+**Frontend Web Developer @ IEEE CUSB (_Jan 2024 - Jun2024_)**  
