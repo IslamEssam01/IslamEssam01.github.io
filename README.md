@@ -22,10 +22,10 @@
 - Machine Learning Models: Utilize pre-trained models for precise analysis of eye movements.
 - Module Development: Designed and tested modules for eye and gaze tracking.
 
-  ## Work Experience
-  **Full-Stack Web Developer , Freelancing (_Jun 2024 - Present_)**
+## Work Experience
+**Full-Stack Web Developer , Freelancing (_Jun 2024 - Present_)**
 
-  ## Skills
+## Skills
 
 ### Programming Languages
 - JavaScript, TypeScript, and Go.
